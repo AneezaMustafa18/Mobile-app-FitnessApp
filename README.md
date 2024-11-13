@@ -1,1 +1,1 @@
-# Mobile-app-FitnessApp
+# Mobile-application-FitnessApp
